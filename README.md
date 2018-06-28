@@ -1,2 +1,3 @@
 # hello-world
-just a new repository
+
+Am just getting started with this. With time I'll be the alpha 
